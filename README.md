@@ -26,7 +26,7 @@
  
   ![Snake animation](https://miro.medium.com/max/1000/1*Q5_t-R0xRs07wW1Kf8rCSw.gif) 
   
-<!--  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
+  ![Snake animation](https://github.com/JuiaJulha/JuiaJulha/blob/output/github-contribution-grid-snake.svg) 
  
 </div>
 
