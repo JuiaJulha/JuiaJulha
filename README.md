@@ -24,7 +24,7 @@
   <a href = "juliaavancisoares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
  
-  ![Snake animation](https://images-ext-1.discordapp.net/external/ge4ca9Zh6nqD5ssIT3yp52LboAnCmAsQvaNRCnrZVRA/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/464556915142426638/12c6dd41c145461543cb31e63cdb47d8.png) 
+  ![Snake animation](https://veja.abril.com.br/wp-content/uploads/2016/05/giphy-3-original.gif) 
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
