@@ -12,7 +12,7 @@
   <img align="center" alt="julha-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="julha-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="julha-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="julha-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/571524819691110416/571524819691110418/908156528505278474">
+  <img align="right" alt="julha-pic" height="150" style="border-radius:50px;" src="https://akns-images.eonline.com/eol_images/Entire_Site/2017314/rs_634x1024-170414123556-634.Playboy-Bunny-Rachel-McAdams-Mean-Girls.ms.041417.jpg?fit=around%7C634:1024&output-quality=90&crop=634:1024;center,top">
 </div>
   
   ##
